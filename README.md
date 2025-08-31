@@ -9,10 +9,9 @@
 
 ## 🏫 Education
 
-| Institute                   | Degree                              | Duration           | Location           | Grade/Score          |
-|----------------------------|-----------------------------------|--------------------|--------------------|----------------------|
-| Manipal University Jaipur  | B.Tech in Information Technology  | Nov 2021 - Jul 2025| Jaipur, India      | CGPA: **8.90***       |
-| Kanha Makhan Public School | Higher Secondary Education        | 2019 - 2020        | Vrindavan, India   | Percentage: **91%**   |
+| Institute                  | Degree                             | Duration           | Location      | Grade/Score        |
+|---------------------------|----------------------------------|--------------------|---------------|--------------------|
+| Manipal University Jaipur | B.Tech in Information Technology | Nov 2021 - Jul 2025 | Jaipur, India | CGPA: **8.90***    |
 
 ---
 
