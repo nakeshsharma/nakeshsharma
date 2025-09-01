@@ -52,7 +52,7 @@ A complete personal finance management system where users can track income and e
 - Developed REST APIs using Spring Boot for smooth and secure backend communication.  
 - Secured application with JWT-based authentication and Spring Security.  
 - Features include transactions search and filtering for quick record access.  
-[GitHub Repo](https://github.com/nakeshsharma/money-manager) | [Live Demo](https://money-manager-1-ri1z.onrender.com/home)
+[GitHub Repo](https://github.com/nakeshsharma/money-manager) | [Live Demo](https://money-manager-1-ri1z.onrender.com/home) | [YouTube Demo](https://www.youtube.com/watch?v=J5TXq3BWTPA&feature=youtu.be)
 
 ### 🍔 Online Food Delivery  
 A full-stack platform with separate user/admin interfaces supporting menu browsing, cart management, order placement, and live status updates.  
@@ -63,16 +63,15 @@ A full-stack platform with separate user/admin interfaces supporting menu browsi
 ### 🎮 Simon Says Game  
 Web-based memory game replicating color sequences to enhance cognitive skills.  
 - Responsive design with interactive visual feedback.  
-[GitHub Repo](https://github.com/nakeshsharma/simon-says-game)
+[GitHub Repo](https://github.com/nakeshsharma/simon-says-game) | [Live Demo](https://nakeshsharma.github.io/Simon-Says-Game/)
 
 ---
 
 ## 🏅 Achievements & Certifications
 
-- Dean’s List for outstanding performance, highest GPA: 9.75 in 4th semester  
-- [NPTEL: Design and Analysis of Algorithms (8 weeks)](https://drive.google.com/file/d/1Vp0oZNiaPtdz1p0XbubpTZ8NzmOZ0G3l/view?usp=sharing)  
-- [NPTEL: Software Engineering (12 weeks)](https://drive.google.com/file/d/1L2OiypM7-GSIuEGZ2UR911iNOZExulkR/view?usp=sharing)  
-- [AWS Academy Cloud Foundation](https://drive.google.com/file/d/1TomRey7wI-iVahoO0_WOO3Z-pyIKF-4X/view?usp=sharing)
+- Dean’s List for outstanding academic performance (Highest GPA: 9.75)  
+- [NPTEL: Design and Analysis of Algorithms (8 weeks)](https://drive.google.com/file/d/1TZRZg6SjBD8ORRrPIE2kXoo3KpCDAW9o/view)  
+- [NPTEL: Software Engineering (12 weeks)](https://drive.google.com/file/d/1WQinX-vAfF_Oqz378MFEg0tZiTFsB6m6/view)
 
 ---
 
@@ -93,8 +92,9 @@ Web-based memory game replicating color sequences to enhance cognitive skills.
 <p align="center">
   <a href="mailto:nakeshsharma78@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/nakeshsharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/nakeshsharma/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/nakeshsharma78/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://leetcode.com/u/Nakesh_Sharma/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/nakesh_219302459"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.geeksforgeeks.org/user/nakesh21aqz7/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
